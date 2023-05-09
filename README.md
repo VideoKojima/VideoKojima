@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VideoKojima
 - 👀 I’m interested in learning to code. Currently working as a Network Engineer/Administrator. 
-- 🌱 I’m currently learning C++, Python, and HTML via freeCodeCamp
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C through a number of resources
+- 💞️ I’m looking to sharpen my skills and create things of my own.
 - 📫 How to reach me ...
 
 <!---
